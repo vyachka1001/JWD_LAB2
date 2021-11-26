@@ -1,0 +1,20 @@
+<appliances>
+    <fridge autonomousColdStorageTime="18">
+        <price>200</price>
+        <power>5000</power>
+    </fridge>
+    <teapot>
+        <price>20</price>
+        <power>1000</power>
+        <volume>1000</volume>
+    </teapot>
+    <teapot>
+        <price>40</price>
+        <power>2000</power>
+        <volume>2000</volume>
+    </teapot>
+    <microwave timer="true">
+        <price>10</price>
+        <power>3000</power>
+    </microwave>
+</appliances>

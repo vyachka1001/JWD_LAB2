@@ -1,0 +1,10 @@
+by.bsuir.webtech.second.task
+by.bsuir.webtech.second.task.dao
+by.bsuir.webtech.second.task.director
+by.bsuir.webtech.second.task.entity
+by.bsuir.webtech.second.task.entity.comparator
+by.bsuir.webtech.second.task.logic
+by.bsuir.webtech.second.task.logic.impl
+by.bsuir.webtech.second.task.parsing
+by.bsuir.webtech.second.task.parsing.builder
+by.bsuir.webtech.second.task.parsing.builder.impl
